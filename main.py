@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://ibb.co/CsbHtsmr');
+      background-image: url('https://i.ibb.co/tMZxht38/20250914-194221.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -168,7 +168,7 @@ def send_message():
   </div>
   <footer class="footer">
     <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️𝗞𝗜𝗡𝗚😈🐧</p>
-    <p> 𝗞𝗜𝗡𝗚 𝗢𝗙 𝗧𝗥𝗜𝗖𝗞𝗘𝗥 <a href="https://www.facebook.com/BL9CK.D3V1L">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p> 𝗞𝗜𝗡𝗚 𝗢𝗙 𝗧𝗥𝗜𝗖𝗞𝗘𝗥 <a href="https://www.facebook.com/King.Bolti.he.public">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+917668337116" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
